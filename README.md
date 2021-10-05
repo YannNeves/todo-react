@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# To-do with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
 ## Available Scripts
 
 In the project directory, you can run:
@@ -44,4 +43,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# todo-react
